@@ -1,0 +1,10 @@
+[
+  {
+    "round1": [
+      { "idUser": 1, "score": 4 },
+      { "idUser": 2, "score": 3 },
+      { "idUser": 3, "score": 3 },
+      { "idUser": 4, "score": 3 }
+    ]
+  }
+]
